@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0px;
+    background-color: black;
+    color: white;
+    /*border: 1px solid white;*/
+}
+
+.sidebar{
+    border-right: 1px solid white;
+    display: flex;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+
